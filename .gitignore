@@ -1,4 +1,4 @@
 node_modules/
 lib/config/config.dev.js
 npm-debug.log
-dist/static/js/main.js
+dist/js/main.js
